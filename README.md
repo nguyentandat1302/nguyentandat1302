@@ -90,16 +90,16 @@
 <h2 align="center">📖 My main course: [FULL STACK] MERN ADVANCED 📖</h2>
 <br>
 <p>
-  <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">
+  <a href="" target="_blank">
     <strong>☕ [FULL STACK] 
     ✍ | ReactJS, NodeJS, ExpressJS, MongoDB | JinDa-Nguyen</strong>
   </a>
 </p>
-<p><strong>☕ Đây là nơi mà mình đã làm cực kỳ tâm huyết, lập trình làm dự án thực tế, chuyên nghiệp. Để mình có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
+<p><strong>☕ Đây là nơi mà mình đã làm cực kỳ tâm huyết, lập trình làm dự án thực tế, chuyên nghiệp. Để mình có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.
+          ☕ Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức MERN Stack Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, NodeJS, ExpressJS, MongoDB...vv
+</strong></p>
 <p>
-  <br><br>
-  <strong>🔗 Bài viết chi tiết trên blog: <a href="https://jinda-nguyen.web.app/" target="_blank">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức MERN Stack Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, NodeJS, ExpressJS, MongoDB...vv</a></strong>
-  <br><br>
+
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/tandat090" target="_blank">https://www.facebook.com/tandat090</a></strong>
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:datnguyen13021302@gmail.com" target="_top">datnguyen13021302@gmail.com</a></strong>
@@ -109,6 +109,8 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
+
 <a href="#" target="_blank">
-  <img src="svg/footer.svg" width="846" height="150" alt="nguyentandat-mot-lap-trinh-vien-mern-stack-advanced" />
+  <img src="svg/footer.svg" width="846" height="150" alt="My Quote Banner" />
 </a>
+

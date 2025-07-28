@@ -111,6 +111,6 @@
 <br>
 
 <a href="#" target="_blank">
-  <img src="svg/footer.svg" width="846" height="150" alt="My Quote Banner" />
+  <img src="svg/footer.png" width="846" height="150" alt="My Quote Banner" />
 </a>
 

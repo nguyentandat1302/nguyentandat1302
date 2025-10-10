@@ -1,4 +1,3 @@
-<img width="210" height="210" alt="image" src="https://github.com/user-attachments/assets/aa80c7c1-b430-4851-8963-4bd5c611a911" /><a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
 

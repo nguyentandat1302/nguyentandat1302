@@ -52,8 +52,8 @@
   <a href="https://jinda-nguyen.web.app/" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="nguyentandat-blog" />
   </a>
-  <a href="https://www.facebook.com/tandat090" target="blank">
-    <img src="https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/164679/Originals/facebook-la-gi-1.jpg" alt="nguyentandat-facebook" />
+  <a href="https://www.facebook.com/tandat0901" target="blank">
+    <img src="https://img.icons8.com/?size=1200&id=118555&format=png" alt="nguyentandat-facebook" />
   </a>
   <a href="https://www.youtube.com/@atnguyentan8834" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nguyentandat-youtube" />

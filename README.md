@@ -1,4 +1,4 @@
-<a href="#" target="_blank">
+<img width="210" height="210" alt="image" src="https://github.com/user-attachments/assets/aa80c7c1-b430-4851-8963-4bd5c611a911" /><a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
 
@@ -53,7 +53,7 @@
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="nguyentandat-blog" />
   </a>
   <a href="https://www.facebook.com/tandat090" target="blank">
-    <img src="[https://img.icons8.com/bubbles/100/000000/facebook-new.png](https://www.facebook.com/tandat0901)" alt="nguyentandat-facebook" />
+    <img src="https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/164679/Originals/facebook-la-gi-1.jpg" alt="nguyentandat-facebook" />
   </a>
   <a href="https://www.youtube.com/@atnguyentan8834" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nguyentandat-youtube" />

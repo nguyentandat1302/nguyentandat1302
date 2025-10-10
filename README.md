@@ -48,7 +48,6 @@
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
-<!-- https://icons8.com -->
 <div align="center">
   <a href="https://jinda-nguyen.web.app/" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="nguyentandat-blog" />

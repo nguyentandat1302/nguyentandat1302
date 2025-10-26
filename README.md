@@ -43,7 +43,7 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 <br>
-<h2 align="center">👽 Connect with me please👽</h2>
+<h2 align="center">👽 Connect With Me👽</h2>
 <br>
 <div align="center">
   <a href="https://jinda-nguyen.web.app/" target="blank">
